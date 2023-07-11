@@ -1,0 +1,2 @@
+# shade-public
+Public content
